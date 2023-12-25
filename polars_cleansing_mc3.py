@@ -6,7 +6,7 @@
 #
 # Be careful: As this scirpt was based on polars v0.13.55, some functions and parameters had been replaced
 # or removed in later versions. Thus, instead of running this script, we recommend writing a new script with
-# the latest Python/Rust and polars library, following the instructions in Supplementary Methods.
+# the latest Python/Rust and polars library, following the instructions in comments.
 #
 # Usage: This script is used for cleansing the TCGA MC3 dataset.
 
